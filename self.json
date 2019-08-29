@@ -1,0 +1,16 @@
+{
+  "client": {
+    "basic": {
+      "json": 3,
+      "setting": 2,
+      "design": 2,
+      "render_01": 3,
+      "render_02": 3,
+      "router": 2,
+      "fetch": 3,
+      "cond_render": 3,
+      "css": 2,
+      "git": 2
+    }
+  }
+}
